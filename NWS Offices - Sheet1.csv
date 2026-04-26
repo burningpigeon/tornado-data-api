@@ -1,0 +1,123 @@
+Region,Forecast office,State,Office call sign
+Alaska,Anchorage,Alaska,AFC
+Alaska,Fairbanks,Alaska,AFG
+Alaska,Juneau,Alaska,AJK
+Central,Denver - Boulder,Colorado,BOU
+Central,Grand Junction,Colorado,GJT
+Central,Pueblo,Colorado,PUB
+Central,Chicago,Illinois,LOT
+Central,Lincoln,Illinois,ILX
+Central,Indianapolis,Indiana,IND
+Central,Northern Indiana,Indiana,IWX
+Central,Davenport/Quad Cities,Iowa,DVN
+Central,Des Moines,Iowa,DMX
+Central,Dodge City,Kansas,DDC
+Central,Goodland,Kansas,GLD
+Central,Topeka,Kansas,TOP
+Central,Wichita,Kansas,ICT
+Central,Jackson,Kentucky,JKL
+Central,Louisville,Kentucky,LMK
+Central,Paducah,Kentucky,PAH
+Central,Detroit/Pontiac,Michigan,DTX
+Central,Gaylord,Michigan,APX
+Central,Grand Rapids,Michigan,GRR
+Central,Marquette,Michigan,MQT
+Central,Duluth,Minnesota,DLH
+Central,Chanhassen/Twin Cities,Minnesota,MPX
+Central,Kansas City/Pleasant Hill,Missouri,EAX
+Central,Springfield,Missouri,SGF
+Central,St. Louis,Missouri,LSX
+Central,Hastings,Nebraska,GID
+Central,North Platte,Nebraska,LBF
+Central,Omaha/Valley,Nebraska,OAX
+Central,Bismarck,North Dakota,BIS
+Central,Grand Forks,North Dakota,FGF
+Central,Aberdeen,South Dakota,ABR
+Central,Rapid City,South Dakota,UNR
+Central,Sioux Falls,South Dakota,FSD
+Central,Green Bay,Wisconsin,GRB
+Central,La Crosse,Wisconsin,ARX
+Central,Milwaukee/Sullivan,Wisconsin,MKX
+Central,Cheyenne,Wyoming,CYS
+Central,Riverton,Wyoming,RIW
+Eastern,Caribou,Maine,CAR
+Eastern,Gray/Portland,Maine,GYX
+Eastern,Boston/Norton,Massachusetts,BOX
+Eastern,Mount Holly/Philadelphia,New Jersey,PHI
+Eastern,Albany,New York,ALY
+Eastern,Binghamton,New York,BGM
+Eastern,Buffalo,New York,BUF
+Eastern,New York/Upton,New York,OKX
+Eastern,Newport/Morehead City,North Carolina,MHX
+Eastern,Raleigh,North Carolina,RAH
+Eastern,Wilmington,North Carolina,ILM
+Eastern,Cleveland,Ohio,CLE
+Eastern,Wilmington (de facto “Cincinnati/Wilmington”),Ohio,ILN
+Eastern,Pittsburgh,Pennsylvania,PBZ
+Eastern,State College,Pennsylvania,CTP
+Eastern,Charleston,South Carolina,CHS
+Eastern,Columbia,South Carolina,CAE
+Eastern,Greenville-Spartanburg,South Carolina,GSP
+Eastern,Burlington,Vermont,BTV
+Eastern,Baltimore/Washington,Virginia,LWX
+Eastern,Blacksburg/Roanoke,Virginia,RNK
+Eastern,Wakefield,Virginia,AKQ
+Eastern,Charleston,West Virginia,RLX
+Pacific,Guam,Guam,GUM
+Pacific,Honolulu,Hawaii,HFO[10]
+Southern,Birmingham,Alabama,BMX
+Southern,Huntsville,Alabama,HUN
+Southern,Mobile/Pensacola,Alabama,MOB
+Southern,Little Rock,Arkansas,LZK
+Southern,Jacksonville,Florida,JAX
+Southern,Key West,Florida,KEY
+Southern,Melbourne,Florida,MLB
+Southern,Miami,Florida,MFL
+Southern,Tallahassee,Florida,TAE
+Southern,Tampa,Florida,TBW
+Southern,Peachtree City/Atlanta,Georgia,FFC
+Southern,Lake Charles,Louisiana,LCH
+Southern,New Orleans/Baton Rouge,Louisiana,LIX
+Southern,Shreveport,Louisiana,SHV
+Southern,Jackson,Mississippi,JAN
+Southern,Albuquerque,New Mexico,ABQ
+Southern,Norman/Oklahoma City,Oklahoma,OUN
+Southern,Tulsa,Oklahoma,TSA
+Southern,San Juan,Puerto Rico,SJU
+Southern,Memphis,Tennessee,MEG
+Southern,Morristown/Knoxville,Tennessee,MRX
+Southern,Nashville,Tennessee,OHX
+Southern,Amarillo,Texas,AMA
+Southern,Austin/San Antonio,Texas,EWX
+Southern,Brownsville,Texas,BRO
+Southern,Corpus Christi,Texas,CRP
+Southern,El Paso,Texas,EPZ
+Southern,Fort Worth-Dallas,Texas,FWD
+Southern,Houston/Galveston,Texas,HGX
+Southern,Lubbock,Texas,LUB
+Southern,Midland/Odessa,Texas,MAF
+Southern,San Angelo,Texas,SJT
+Western,Flagstaff,Arizona,FGZ
+Western,Phoenix,Arizona,PSR
+Western,Tucson,Arizona,TWC
+Western,Eureka,California,EKA
+Western,Los Angeles/Oxnard,California,LOX
+Western,Sacramento,California,STO
+Western,San Diego,California,SGX
+Western,San Francisco Bay Area/Monterey,California,MTR
+Western,San Joaquin Valley/Hanford,California,HNX
+Western,Boise,Idaho,BOI
+Western,Pocatello,Idaho,PIH
+Western,Billings,Montana,BYZ
+Western,Glasgow,Montana,GGW
+Western,Great Falls,Montana,TFX
+Western,Missoula,Montana,MSO
+Western,Elko,Nevada,LKN
+Western,Las Vegas,Nevada,VEF
+Western,Reno,Nevada,REV
+Western,Medford,Oregon,MFR
+Western,Pendleton,Oregon,PDT
+Western,Portland,Oregon,PQR
+Western,Salt Lake City,Utah,SLC
+Western,Seattle,Washington,SEW
+Western,Spokane,Washington,OTX
