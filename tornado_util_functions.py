@@ -77,7 +77,6 @@ def clean_text(text):
     Cleans and normalizes tornado event text.
 
     - Removes unwanted characters (|, �)
-    - Lowercases text
     - Standardizes 'mph'
     - Collapses whitespace
     - Returns empty string for non-text values
@@ -90,7 +89,6 @@ def clean_text(text):
     text = re.sub(r"[|�]", "", text)
 
     # Normalize
-    # text = text.lower()
     text = text.replace("m.p.h.", "mph")
     text = text.replace("m.p.h", "mph")
     text = text.replace("MPH","mph")

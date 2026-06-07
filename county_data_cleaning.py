@@ -69,3 +69,5 @@ counties["Standard Time"] = counties["TIME_ZONE"].map(timezone_standard_time_map
 counties["Daylight Time"] = counties["TIME_ZONE"].map(timezone_daylight_time_map)
 
 print(counties.head(5))
+
+counties.to_csv('cleaned_counties_data.csv', index=False)
