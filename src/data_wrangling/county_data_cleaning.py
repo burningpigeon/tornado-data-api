@@ -1,7 +1,7 @@
 import pandas as pd 
 import numpy as np 
 import re
-import tornado_util_functions as utils
+import src.data_wrangling.tornado_util_functions as utils
 
 counties = pd.read_csv('c_16ap26.csv')
 
