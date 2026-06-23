@@ -1,6 +1,23 @@
 import re
+import pandas as pd
+from datetime import timedelta
 
 print("tornado_util_functions loaded...")
+
+# State name to code mapping
+state_name_to_code = {
+    "Alabama": "AL", "Alaska": "AK", "Arizona": "AZ", "Arkansas": "AR", "California": "CA",
+    "Colorado": "CO", "Connecticut": "CT", "Delaware": "DE", "Florida": "FL", "Georgia": "GA",
+    "Hawaii": "HI", "Idaho": "ID", "Illinois": "IL", "Indiana": "IN", "Iowa": "IA",
+    "Kansas": "KS", "Kentucky": "KY", "Louisiana": "LA", "Maine": "ME", "Maryland": "MD",
+    "Massachusetts": "MA", "Michigan": "MI", "Minnesota": "MN", "Mississippi": "MS", "Missouri": "MO",
+    "Montana": "MT", "Nebraska": "NE", "Nevada": "NV", "New Hampshire": "NH", "New Jersey": "NJ",
+    "New Mexico": "NM", "New York": "NY", "North Carolina": "NC", "North Dakota": "ND", "Ohio": "OH",
+    "Oklahoma": "OK", "Oregon": "OR", "Pennsylvania": "PA", "Rhode Island": "RI", "South Carolina": "SC",
+    "South Dakota": "SD", "Tennessee": "TN", "Texas": "TX", "Utah": "UT", "Vermont": "VT",
+    "Virginia": "VA", "Washington": "WA", "West Virginia": "WV", "Wisconsin": "WI", "Wyoming": "WY",
+    "District of Columbia": "DC"
+}
 
 def state_id_to_name(state_id):
     """
@@ -223,4 +240,72 @@ def regex_extract(text, ef_rating):
         else:
             return "Unknown"
     return f"{max(speeds)} mph"
+
+def parse_dst_date(date_str, year):
+    """
+    Convert 'DD-Month' format to a datetime object
+    """
+    try:
+        return pd.to_datetime(f"{date_str}-{year}", format="%d-%B-%Y")
+    except:
+        return None
+
+def is_in_dst(event_date, state, county_name, dst_dates_df, county_info_df):
+    """
+    Check if an event date falls within DST for a specific county.
+    Returns True if in DST, False if not.
+    """
+    # Get county DST info
+    county_row = county_info_df[(county_info_df['STATE'] == state) & 
+                                 (county_info_df['COUNTYNAME'] == county_name)]
+    
+    if county_row.empty:
+        return False
+    
+    dst_status = county_row['DST'].values[0]
+    
+    # If county doesn't observe DST, return False
+    if not dst_status:
+        return False
+    
+    # Get the year from the event date
+    year = event_date.year
+    
+    # Find DST dates for this year
+    dst_year_row = dst_dates_df[dst_dates_df['Year'] == year]
+    
+    if dst_year_row.empty:
+        return False
+    
+    dst_start_str = dst_year_row['DST Start'].values[0]
+    dst_end_str = dst_year_row['DST End'].values[0]
+    
+    # Parse the DST start and end dates
+    dst_start = parse_dst_date(dst_start_str, year)
+    dst_end = parse_dst_date(dst_end_str, year)
+    
+    if dst_start is None or dst_end is None:
+        return False
+    
+    # Check if event date is between DST start and end (exclusive of end date)
+    return dst_start <= event_date < dst_end
+
+def correct_time_for_dst(row, dst_dates_df, county_info_df):
+    """
+    Correct BEGIN_DATE_TIME and END_DATE_TIME if they fall within DST period
+    """
+    state_code = row['state_code']
+    county = row['county_name']
+    begin_time = row['begin_date_time']
+    end_time = row['end_date_time']
+    
+    # Check if begin time is in DST
+    if pd.notna(begin_time) and is_in_dst(begin_time, state_code, county, dst_dates_df, county_info_df):
+        begin_time = begin_time + timedelta(hours=1)
+    
+    # Check if end time is in DST
+    if pd.notna(end_time) and is_in_dst(end_time, state_code, county, dst_dates_df, county_info_df):
+        end_time = end_time + timedelta(hours=1)
+    
+    return begin_time, end_time
     

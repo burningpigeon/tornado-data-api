@@ -1,9 +1,9 @@
 import pandas as pd
 import numpy as np
 import re
-import src.data_wrangling.tornado_util_functions as utils
+from . import tornado_util_functions as utils
 
-def clean_tornado_details(storm_details_csv):
+def clean_tornado_details(storm_details_csv, county_dst_info=None, dst_dates=None):
     tornado_details = storm_details_csv[storm_details_csv["EVENT_TYPE"] == "Tornado"]
 
     tornado_details = tornado_details[[
@@ -47,7 +47,7 @@ def clean_tornado_details(storm_details_csv):
 
     tornado_details["EPISODE_NARRATIVE"] = tornado_details["EPISODE_NARRATIVE"].apply(utils.clean_text)
     tornado_details["EVENT_NARRATIVE"] = tornado_details["EVENT_NARRATIVE"].apply(utils.clean_text)
-    tornado_details["MAX_WINDSPEED"] = tornado_details.apply(lambda row: utils.regex_extract(row["EVENT_NARRATIVE"], row["TOR_F_SCALE"]), axis=1)
+    tornado_details["max_windspeed"] = tornado_details.apply(lambda row: utils.regex_extract(row["EVENT_NARRATIVE"], row["TOR_F_SCALE"]), axis=1)
 
     tornado_details['BEGIN_DATE_TIME'] = pd.to_datetime(tornado_details['BEGIN_DATE_TIME'], format='%d-%b-%y %H:%M:%S')
     tornado_details['END_DATE_TIME'] = pd.to_datetime(tornado_details['END_DATE_TIME'], format='%d-%b-%y %H:%M:%S')
@@ -83,3 +83,23 @@ def clean_tornado_details(storm_details_csv):
         'EPISODE_NARRATIVE': 'episode_narrative',
         'EVENT_NARRATIVE': 'event_narrative'
     }, inplace=True)
+
+    if county_dst_info is not None and dst_dates is not None:
+        tornado_details['state_code'] = tornado_details['state'].map(utils.state_name_to_code)
+        
+        tornado_details[['begin_date_time_corrected', 'end_date_time_corrected']] = tornado_details.apply(
+            lambda row: pd.Series(utils.correct_time_for_dst(row, dst_dates, county_dst_info)),
+            axis=1
+        )
+        
+        tornado_details['begin_time_adjusted'] = (tornado_details['begin_date_time'] != tornado_details['begin_date_time_corrected'])
+        tornado_details['end_time_adjusted'] = (tornado_details['end_date_time'] != tornado_details['end_date_time_corrected'])
+    return tornado_details
+
+
+storm_details_csv = pd.read_csv('imported_data/storm_details/StormEvents_details-ftp_v1.0_d2025_c20260323.csv')
+county_dst_info = pd.read_csv('cleaned_data/cleaned_counties_data.csv')
+dst_dates = pd.read_csv('cleaned_data/DST - Sheet1.csv')
+
+cleaned_data = clean_tornado_details(storm_details_csv, county_dst_info, dst_dates)
+cleaned_data.to_csv('cleaned_data/tornado_data_cleaned.csv', index=False)
