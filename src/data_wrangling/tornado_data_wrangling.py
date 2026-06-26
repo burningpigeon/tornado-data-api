@@ -95,11 +95,3 @@ def clean_tornado_details(storm_details_csv, county_dst_info=None, dst_dates=Non
         tornado_details['begin_time_adjusted'] = (tornado_details['begin_date_time'] != tornado_details['begin_date_time_corrected'])
         tornado_details['end_time_adjusted'] = (tornado_details['end_date_time'] != tornado_details['end_date_time_corrected'])
     return tornado_details
-
-
-storm_details_csv = pd.read_csv('imported_data/storm_details/StormEvents_details-ftp_v1.0_d2025_c20260323.csv')
-county_dst_info = pd.read_csv('cleaned_data/cleaned_counties_data.csv')
-dst_dates = pd.read_csv('cleaned_data/DST - Sheet1.csv')
-
-cleaned_data = clean_tornado_details(storm_details_csv, county_dst_info, dst_dates)
-cleaned_data.to_csv('cleaned_data/tornado_data_cleaned.csv', index=False)
