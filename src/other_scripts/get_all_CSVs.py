@@ -4,8 +4,12 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
 BASE_URL = "https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/"
-DETAILS_FOLDER = r"./storm_data/details"
-FATALITIES_FOLDER = r"./storm_data/fatalities"
+
+DETAILS_FOLDER = r".imported_data/storm_details"
+FATALITIES_FOLDER = r".imported_data/storm_fatalities"
+
+# Set to True if you want to skip files that already exist
+SKIP_EXISTING = False
 
 def download_file(url, output_path):
     """Download a file with progress indication."""
@@ -29,6 +33,7 @@ def download_file(url, output_path):
                         f"({percent:.1f}%)",
                         end=""
                     )
+
     print()
 
 
@@ -65,21 +70,27 @@ def main():
     for filename in details_files:
         output_path = os.path.join(DETAILS_FOLDER, filename)
 
-        if os.path.exists(output_path):
+        if SKIP_EXISTING and os.path.exists(output_path):
             print(f"Skipping existing file: {filename}")
             continue
 
-        download_file(urljoin(BASE_URL, filename),output_path)
+        download_file(
+            urljoin(BASE_URL, filename),
+            output_path
+        )
 
     # Download fatalities files
     for filename in fatalities_files:
         output_path = os.path.join(FATALITIES_FOLDER, filename)
 
-        if os.path.exists(output_path):
+        if SKIP_EXISTING and os.path.exists(output_path):
             print(f"Skipping existing file: {filename}")
             continue
 
-        download_file(urljoin(BASE_URL, filename),output_path)
+        download_file(
+            urljoin(BASE_URL, filename),
+            output_path
+        )
 
     print("Done!")
 
