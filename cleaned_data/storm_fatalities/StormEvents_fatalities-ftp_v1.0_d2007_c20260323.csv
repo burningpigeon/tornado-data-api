@@ -1,0 +1,82 @@
+event_id,fatality_type,FATALITY_DATE,fatality_age,fatality_sex,fatality_location
+22399,Direct,03/01/2007,83,F,Permanent Home
+22399,Direct,03/01/2007,16,M,School
+22399,Direct,03/01/2007,16,M,School
+22399,Direct,03/01/2007,17,F,School
+62476,Direct,10/18/2007,1,M,Mobile/Trailer Home
+62476,Direct,10/18/2007,1,F,Mobile/Trailer Home
+22399,Direct,03/01/2007,16,F,School
+22399,Direct,03/01/2007,17,M,School
+22399,Direct,03/01/2007,16,F,School
+22399,Direct,03/01/2007,16,M,School
+22399,Direct,03/01/2007,17,M,School
+23038,Direct,03/01/2007,7,F,Mobile/Trailer Home
+24686,Direct,04/13/2007,40,M,Outside/Open Areas
+27708,Direct,04/24/2007,4,F,Mobile/Trailer Home
+27708,Direct,04/24/2007,44,F,Mobile/Trailer Home
+27708,Direct,04/24/2007,71,F,Mobile/Trailer Home
+27708,Direct,04/24/2007,74,F,Mobile/Trailer Home
+27708,Direct,04/24/2007,83,F,Mobile/Trailer Home
+27708,Direct,04/24/2007,19,M,Mobile/Trailer Home
+27708,Direct,04/24/2007,47,M,Permanent Home
+34211,Direct,05/05/2007,54,F,Vehicle/Towed Trailer
+16784,Direct,02/13/2007,86,F,Mobile/Trailer Home
+18948,Direct,02/02/2007,20,M,Mobile/Trailer Home
+18948,Direct,02/02/2007,66,F,Mobile/Trailer Home
+18948,Direct,02/02/2007,77,F,Mobile/Trailer Home
+18948,Direct,02/02/2007,92,M,Mobile/Trailer Home
+18948,Direct,02/02/2007,17,F,Mobile/Trailer Home
+18948,Direct,02/02/2007,88,F,Mobile/Trailer Home
+18948,Direct,02/02/2007,81,F,Mobile/Trailer Home
+18948,Direct,02/27/2007,88,M,Mobile/Trailer Home
+18950,Direct,02/02/2007,46,M,Mobile/Trailer Home
+18950,Direct,02/02/2007,35,F,Mobile/Trailer Home
+18950,Direct,02/02/2007,15,M,Mobile/Trailer Home
+18950,Direct,02/02/2007,37,M,Mobile/Trailer Home
+18950,Direct,02/02/2007,7,M,Mobile/Trailer Home
+18950,Direct,02/02/2007,58,F,Mobile/Trailer Home
+18950,Direct,02/02/2007,35,F,Mobile/Trailer Home
+18950,Direct,02/02/2007,9,F,Mobile/Trailer Home
+18950,Direct,02/02/2007,49,M,Mobile/Trailer Home
+18950,Direct,02/02/2007,55,M,Mobile/Trailer Home
+18950,Direct,02/02/2007,66,F,Mobile/Trailer Home
+18950,Direct,02/02/2007,54,M,Mobile/Trailer Home
+18950,Direct,02/02/2007,49,F,Mobile/Trailer Home
+20465,Direct,03/01/2007,48,M,Mobile/Trailer Home
+20730,Direct,03/27/2007,91,F,Mobile/Trailer Home
+20730,Direct,04/12/2007,90,M,Mobile/Trailer Home
+35937,Direct,05/04/2007,58,M,Unknown
+35937,Direct,05/04/2007,63,M,In Water
+35937,Direct,05/04/2007,79,M,Mobile/Trailer Home
+35937,Direct,05/04/2007,77,M,Permanent Home
+35937,Direct,05/04/2007,76,F,Permanent Home
+35937,Direct,05/04/2007,49,M,Permanent Home
+35937,Direct,05/04/2007,72,F,Permanent Home
+35937,Direct,05/04/2007,52,M,Permanent Home
+35937,Direct,05/04/2007,78,F,Permanent Home
+35937,Direct,05/05/2007,52,F,Permanent Home
+35937,Direct,09/19/2007,77,M,Permanent Home
+36001,Direct,05/04/2007,84,M,Permanent Home
+36003,Direct,05/07/2007,46,M,Vehicle/Towed Trailer
+63960,Direct,10/17/2007,44,M,Mobile/Trailer Home
+63960,Direct,10/17/2007,25,F,Mobile/Trailer Home
+64011,Direct,10/18/2007,29,M,Mobile/Trailer Home
+68914,Direct,12/15/2007,42,M,Vehicle/Towed Trailer
+21744,Direct,03/28/2007,59,M,Permanent Home
+21744,Direct,03/28/2007,59,F,Permanent Home
+21760,Direct,03/28/2007,53,M,Mobile/Trailer Home
+22275,Direct,03/01/2007,9,F,Mobile/Trailer Home
+22275,Direct,03/01/2007,Unknown,M,Mobile/Trailer Home
+22275,Direct,03/01/2007,Unknown,F,Mobile/Trailer Home
+22275,Direct,03/01/2007,41,M,Mobile/Trailer Home
+22275,Direct,03/01/2007,Unknown,F,Mobile/Trailer Home
+22275,Direct,03/01/2007,13,F,Mobile/Trailer Home
+22284,Direct,03/29/2007,29,F,Mobile/Trailer Home
+22284,Direct,04/26/2007,76,F,Permanent Home
+13767,Direct,01/04/2007,37,F,Mobile/Trailer Home
+13767,Direct,01/04/2007,65,F,Mobile/Trailer Home
+16380,Direct,04/15/2007,53,F,Mobile/Trailer Home
+48727,Direct,08/26/2007,57,M,Mobile/Trailer Home
+21424,Direct,03/01/2007,43,M,Permanent Home
+19854,Direct,03/01/2007,42,M,Mobile/Trailer Home
+21424,Direct,03/01/2007,53,F,Permanent Home

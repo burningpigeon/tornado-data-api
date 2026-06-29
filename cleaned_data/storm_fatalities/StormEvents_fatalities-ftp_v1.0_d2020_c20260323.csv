@@ -1,0 +1,78 @@
+event_id,fatality_type,FATALITY_DATE,fatality_age,fatality_sex,fatality_location
+887044,Direct,04/22/2020,Unknown,Unknown,Unknown
+887908,Direct,04/12/2020,Unknown,Unknown,Unknown
+887908,Direct,04/12/2020,Unknown,Unknown,Unknown
+899721,Direct,04/19/2020,71,M,Mobile/Trailer Home
+902815,Direct,04/12/2020,60,M,Mobile/Trailer Home
+902815,Direct,04/12/2020,55,F,Mobile/Trailer Home
+902843,Direct,04/12/2020,81,F,Permanent Home
+902843,Direct,04/12/2020,42,F,Mobile/Trailer Home
+902843,Direct,04/16/2020,66,F,Unknown
+902843,Indirect,04/13/2020,Unknown,M,Unknown
+889068,Direct,04/13/2020,56,M,Mobile/Trailer Home
+889068,Direct,04/13/2020,56,F,Mobile/Trailer Home
+889068,Direct,04/13/2020,26,F,Mobile/Trailer Home
+889068,Direct,04/13/2020,41,M,Mobile/Trailer Home
+889068,Direct,04/13/2020,25,M,Mobile/Trailer Home
+902831,Direct,04/12/2020,44,F,Business
+902831,Direct,04/12/2020,64,F,Business
+902831,Direct,04/12/2020,61,M,Business
+902831,Direct,04/12/2020,46,M,Business
+913350,Direct,08/04/2020,62,M,Mobile/Trailer Home
+913350,Direct,08/04/2020,52,F,Mobile/Trailer Home
+866540,Direct,01/10/2020,44,M,Mobile/Trailer Home
+866960,Direct,01/11/2020,65,F,Mobile/Trailer Home
+866960,Direct,01/11/2020,87,M,Mobile/Trailer Home
+884164,Direct,04/13/2020,63,M,Mobile/Trailer Home
+884164,Direct,04/13/2020,68,F,Mobile/Trailer Home
+890571,Direct,04/19/2020,Unknown,M,Mobile/Trailer Home
+883016,Direct,03/03/2020,68,M,Permanent Home
+883016,Direct,03/03/2020,34,F,Mobile/Trailer Home
+889259,Direct,04/12/2020,59,F,Mobile/Trailer Home
+889259,Direct,04/12/2020,20,F,Mobile/Trailer Home
+889259,Direct,04/12/2020,63,F,Mobile/Trailer Home
+889259,Direct,04/12/2020,50,M,Mobile/Trailer Home
+889259,Direct,04/12/2020,79,M,Mobile/Trailer Home
+889259,Direct,04/12/2020,75,F,Mobile/Trailer Home
+889259,Direct,04/12/2020,48,M,Mobile/Trailer Home
+889259,Direct,04/12/2020,57,M,Mobile/Trailer Home
+889288,Direct,04/13/2020,34,M,Permanent Home
+886100,Direct,04/13/2020,77,M,Long Span Roof
+876337,Direct,04/12/2020,46,M,Mobile/Trailer Home
+876337,Direct,04/15/2020,4,M,Permanent Home
+890652,Direct,04/22/2020,46,M,Vehicle/Towed Trailer
+890652,Direct,04/22/2020,46,M,Outside/Open Areas
+880546,Direct,03/02/2020,67,M,Mobile/Trailer Home
+871629,Direct,01/11/2020,51,M,Mobile/Trailer Home
+871629,Direct,01/11/2020,85,M,Mobile/Trailer Home
+871629,Direct,01/11/2020,75,F,Mobile/Trailer Home
+889030,Direct,04/22/2020,29,M,Unknown
+889030,Direct,04/22/2020,27,F,Unknown
+889030,Direct,04/22/2020,Unknown,M,Unknown
+866960,Direct,01/11/2020,79,M,Mobile/Trailer Home
+895549,Direct,05/17/2020,26,F,Mobile/Trailer Home
+878237,Direct,02/06/2020,54,F,Mobile/Trailer Home
+915720,Direct,08/30/2020,73,M,Vehicle/Towed Trailer
+882999,Direct,03/03/2020,36,M,Outside/Open Areas
+882999,Direct,03/03/2020,33,F,Outside/Open Areas
+883007,Direct,03/03/2020,84,M,Permanent Home
+883007,Direct,03/03/2020,81,F,Permanent Home
+883007,Direct,03/03/2020,38,F,Permanent Structure
+883016,Direct,03/03/2020,31,F,Permanent Home
+883016,Direct,03/03/2020,4,F,Permanent Home
+883016,Direct,03/03/2020,7,M,Mobile/Trailer Home
+883016,Direct,03/03/2020,54,M,Mobile/Trailer Home
+883016,Direct,03/03/2020,30,F,Permanent Home
+883016,Direct,03/03/2020,4,M,Permanent Home
+883016,Direct,03/03/2020,30,M,Permanent Home
+883016,Direct,03/03/2020,30,F,Permanent Home
+883016,Direct,03/03/2020,2,M,Permanent Home
+883016,Direct,03/03/2020,50,M,Permanent Home
+883016,Direct,03/03/2020,50,F,Permanent Home
+883016,Direct,03/03/2020,67,F,Permanent Structure
+883016,Direct,03/03/2020,28,F,Permanent Structure
+883016,Direct,03/03/2020,12,F,Permanent Home
+883016,Direct,03/03/2020,65,M,Mobile/Trailer Home
+883016,Direct,03/03/2020,63,F,Mobile/Trailer Home
+883016,Direct,03/03/2020,36,F,Permanent Home
+898307,Direct,07/08/2020,30,M,Permanent Structure

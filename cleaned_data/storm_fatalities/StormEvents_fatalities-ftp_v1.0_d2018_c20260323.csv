@@ -1,0 +1,13 @@
+event_id,fatality_type,FATALITY_DATE,fatality_age,fatality_sex,fatality_location
+786922,Direct,09/17/2018,60,M,Business
+735022,Direct,02/24/2018,79,F,Permanent Home
+766986,Direct,07/09/2018,0,M,Mobile/Trailer Home
+796756,Direct,12/01/2018,34,M,Permanent Structure
+791228,Direct,11/02/2018,54,M,Permanent Structure
+791228,Direct,11/02/2018,37,M,Permanent Structure
+794526,Direct,11/06/2018,41,F,Permanent Home
+756478,Direct,05/15/2018,Unknown,F,Under Tree
+744130,Direct,04/14/2018,2,F,Mobile/Trailer Home
+754019,Indirect,04/15/2018,48,M,Vehicle/Towed Trailer
+785299,Indirect,11/01/2018,19,F,Vehicle/Towed Trailer
+738582,Direct,02/24/2018,83,M,Mobile/Trailer Home

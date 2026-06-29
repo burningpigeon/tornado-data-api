@@ -1,0 +1,93 @@
+event_id,fatality_type,FATALITY_DATE,fatality_age,fatality_sex,fatality_location
+1102155,Direct,03/24/2023,2,F,Mobile/Trailer Home
+1102155,Direct,03/24/2023,61,M,Permanent Home
+1102155,Direct,03/24/2023,41,M,Permanent Home
+1102164,Direct,03/24/2023,54,F,Mobile/Trailer Home
+1102164,Direct,03/24/2023,51,M,Mobile/Trailer Home
+1102164,Direct,03/24/2023,14,M,Mobile/Trailer Home
+1102153,Direct,03/24/2023,77,M,Vehicle/Towed Trailer
+1088285,Direct,03/31/2023,40,M,Permanent Structure
+1088285,Direct,03/31/2023,50,F,Permanent Structure
+1088285,Direct,03/31/2023,69,F,Permanent Structure
+1087403,Direct,03/24/2023,33,M,Mobile/Trailer Home
+1089126,Direct,03/31/2023,56,F,Unknown
+1094927,Direct,04/19/2023,66,M,Mobile/Trailer Home
+1089126,Direct,03/31/2023,21,F,Permanent Home
+1089126,Direct,03/31/2023,22,M,Permanent Home
+1089126,Direct,03/31/2023,30,F,Permanent Home
+1089395,Direct,03/31/2023,31,M,Permanent Home
+1089415,Direct,03/31/2023,62,F,Mobile/Trailer Home
+1089415,Direct,03/31/2023,62,M,Mobile/Trailer Home
+1089415,Direct,03/31/2023,Unknown,M,Mobile/Trailer Home
+1089415,Direct,03/31/2023,Unknown,F,Mobile/Trailer Home
+1089415,Direct,03/31/2023,70,M,Permanent Home
+1089415,Direct,03/31/2023,60,F,Permanent Home
+1089415,Direct,03/31/2023,56,M,Permanent Home
+1089415,Direct,03/31/2023,59,F,Permanent Home
+1125089,Direct,08/31/2023,Unknown,Unknown,Unknown
+1125089,Direct,08/24/2023,40,M,Vehicle/Towed Trailer
+1144360,Direct,12/09/2023,78,F,Mobile/Trailer Home
+1144360,Direct,12/09/2023,34,M,Permanent Home
+1144360,Direct,12/09/2023,59,F,Permanent Home
+1144360,Direct,12/09/2023,10,M,Permanent Home
+1144554,Direct,12/09/2023,37,M,Mobile/Trailer Home
+1144554,Direct,12/09/2023,31,F,Mobile/Trailer Home
+1144554,Direct,12/09/2023,2,M,Mobile/Trailer Home
+1086003,Direct,04/05/2023,62,M,Mobile/Trailer Home
+1086003,Direct,04/05/2023,57,F,Mobile/Trailer Home
+1086003,Direct,04/05/2023,37,M,Mobile/Trailer Home
+1086003,Direct,04/05/2023,16,F,Mobile/Trailer Home
+1086003,Direct,04/05/2023,18,M,Mobile/Trailer Home
+1092807,Direct,04/01/2023,90,F,Permanent Home
+1089415,Direct,03/31/2023,Unknown,F,Mobile/Trailer Home
+1089588,Direct,03/31/2023,55,M,Mobile/Trailer Home
+1096749,Direct,06/25/2023,Unknown,M,Permanent Home
+1087403,Direct,03/24/2023,1,F,Mobile/Trailer Home
+1081667,Direct,02/26/2023,62,M,Mobile/Trailer Home
+1079339,Indirect,01/12/2023,Unknown,Unknown,Other
+1079339,Direct,01/12/2023,Unknown,Unknown,Vehicle/Towed Trailer
+1079340,Indirect,01/12/2023,Unknown,Unknown,Other
+1079340,Direct,01/12/2023,Unknown,Unknown,Vehicle/Towed Trailer
+1079341,Indirect,01/12/2023,Unknown,Unknown,Other
+1079341,Direct,01/12/2023,Unknown,Unknown,Vehicle/Towed Trailer
+1079342,Indirect,01/12/2023,Unknown,Unknown,Other
+1079342,Direct,01/12/2023,Unknown,Unknown,Vehicle/Towed Trailer
+1085836,Direct,03/31/2023,50,M,Business
+1076639,Direct,01/12/2023,70,M,Mobile/Trailer Home
+1076639,Direct,01/12/2023,59,F,Mobile/Trailer Home
+1076639,Direct,01/12/2023,46,M,Mobile/Trailer Home
+1076639,Direct,01/12/2023,21,F,Mobile/Trailer Home
+1076639,Direct,01/12/2023,59,M,Mobile/Trailer Home
+1076639,Direct,01/12/2023,61,F,Mobile/Trailer Home
+1076639,Direct,01/12/2023,50,M,Mobile/Trailer Home
+1086263,Direct,03/24/2023,67,M,Mobile/Trailer Home
+1102153,Direct,03/24/2023,56,F,Mobile/Trailer Home
+1102153,Direct,03/24/2023,59,F,Mobile/Trailer Home
+1102153,Direct,03/24/2023,54,F,Mobile/Trailer Home
+1102153,Direct,03/24/2023,40,F,Mobile/Trailer Home
+1102153,Direct,03/24/2023,58,M,Mobile/Trailer Home
+1102153,Direct,03/24/2023,63,F,Mobile/Trailer Home
+1102153,Direct,03/24/2023,89,F,Mobile/Trailer Home
+1102153,Direct,03/24/2023,55,F,Mobile/Trailer Home
+1102153,Direct,03/24/2023,77,M,Mobile/Trailer Home
+1102153,Direct,03/24/2023,76,M,Permanent Home
+1102153,Direct,03/24/2023,64,F,Permanent Home
+1102153,Direct,03/24/2023,36,F,Permanent Structure
+1102153,Direct,03/24/2023,53,F,Permanent Structure
+1151487,Direct,06/18/2023,Unknown,Unknown,Permanent Home
+1098431,Direct,06/21/2023,85,F,Permanent Home
+1089561,Direct,03/31/2023,47,M,Mobile/Trailer Home
+1089561,Direct,03/31/2023,61,F,Permanent Home
+1089561,Direct,03/31/2023,38,M,Permanent Home
+1089564,Direct,03/31/2023,53,M,Camping
+1089564,Direct,03/31/2023,47,F,Camping
+1098431,Direct,06/21/2023,59,M,Vehicle/Towed Trailer
+1098431,Direct,06/21/2023,43,M,Vehicle/Towed Trailer
+1098431,Direct,06/21/2023,23,M,Vehicle/Towed Trailer
+1089117,Indirect,03/31/2023,Unknown,M,Permanent Home
+1112298,Direct,06/15/2023,11,M,Mobile/Trailer Home
+1112298,Direct,06/15/2023,66,F,Permanent Home
+1112298,Direct,06/15/2023,67,F,Permanent Home
+1087621,Direct,05/13/2023,41,M,Mobile/Trailer Home
+1089589,Direct,04/01/2023,55,M,Mobile/Trailer Home
+1091003,Direct,04/01/2023,Unknown,Unknown,Unknown

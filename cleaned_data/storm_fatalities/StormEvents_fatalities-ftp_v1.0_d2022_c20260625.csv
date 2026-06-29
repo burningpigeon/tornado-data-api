@@ -1,0 +1,26 @@
+event_id,fatality_type,FATALITY_DATE,fatality_age,fatality_sex,fatality_location
+1014021,Indirect,03/22/2022,22,F,Permanent Home
+1014021,Direct,03/22/2022,25,M,Vehicle/Towed Trailer
+1007148,Direct,02/03/2022,71,F,Mobile/Trailer Home
+1008077,Direct,03/21/2022,Unknown,Unknown,Mobile/Trailer Home
+1011568,Direct,03/31/2022,Unknown,M,Mobile/Trailer Home
+1011568,Direct,03/31/2022,Unknown,F,Mobile/Trailer Home
+1013974,Direct,03/30/2022,Unknown,Unknown,Mobile/Trailer Home
+1031457,Direct,05/20/2022,77,F,Mobile/Trailer Home
+1031457,Direct,05/20/2022,70,F,Mobile/Trailer Home
+1061294,Direct,12/13/2022,30,F,Mobile/Trailer Home
+1061294,Direct,12/13/2022,8,M,Mobile/Trailer Home
+1071358,Direct,12/14/2022,56,F,Mobile/Trailer Home
+1007076,Direct,03/05/2022,2,M,Permanent Home
+1007076,Direct,03/05/2022,5,F,Permanent Home
+1007076,Direct,03/05/2022,37,M,Permanent Home
+1007076,Direct,03/05/2022,63,F,Permanent Home
+1007076,Direct,03/05/2022,64,M,Permanent Home
+1007076,Direct,03/05/2022,72,F,Permanent Home
+1007112,Direct,03/05/2022,40,M,Vehicle/Towed Trailer
+1014168,Direct,03/21/2022,73,F,Mobile/Trailer Home
+1057264,Direct,11/04/2022,90,M,Mobile/Trailer Home
+1014520,Direct,04/05/2022,66,F,Mobile/Trailer Home
+1066418,Direct,11/30/2022,39,F,Mobile/Trailer Home
+1066418,Direct,11/30/2022,8,M,Mobile/Trailer Home
+1063555,Direct,11/04/2022,48,F,Mobile/Trailer Home

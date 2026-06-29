@@ -1,0 +1,107 @@
+event_id,fatality_type,FATALITY_DATE,fatality_age,fatality_sex,fatality_location
+946870,Direct,03/25/2021,71,M,Unknown
+946870,Direct,03/25/2021,71,F,Unknown
+946870,Direct,03/25/2021,74,M,Mobile/Trailer Home
+946870,Direct,03/25/2021,69,F,Mobile/Trailer Home
+946870,Direct,03/25/2021,38,F,Mobile/Trailer Home
+946870,Direct,03/25/2021,59,F,Mobile/Trailer Home
+972354,Direct,09/01/2021,68,F,Permanent Home
+945569,Direct,02/15/2021,79,M,Permanent Home
+945569,Direct,02/15/2021,73,F,Permanent Home
+945569,Direct,02/15/2021,72,M,Permanent Home
+996014,Direct,12/10/2021,34,F,Permanent Home
+996014,Direct,12/10/2021,34,M,Permanent Home
+996014,Direct,12/10/2021,62,F,Permanent Home
+996014,Direct,12/10/2021,52,F,Permanent Structure
+995999,Direct,12/10/2021,65,F,Permanent Home
+995999,Direct,12/10/2021,69,F,Permanent Home
+995999,Direct,12/10/2021,80,F,Permanent Home
+995999,Direct,12/10/2021,71,F,Permanent Home
+995999,Direct,12/10/2021,60,M,Permanent Home
+995999,Direct,12/10/2021,78,F,Permanent Home
+995999,Direct,12/12/2021,0,F,Permanent Home
+995999,Direct,12/10/2021,74,F,Permanent Home
+995999,Direct,12/10/2021,34,M,Permanent Home
+995999,Direct,12/10/2021,54,M,Permanent Home
+995999,Direct,12/30/2021,84,M,Permanent Home
+996014,Direct,12/10/2021,0,M,Mobile/Trailer Home
+996014,Direct,12/10/2021,73,M,Mobile/Trailer Home
+996014,Direct,12/10/2021,50,M,Permanent Home
+996014,Direct,12/10/2021,74,F,Permanent Home
+996014,Direct,12/10/2021,43,M,Permanent Home
+996014,Direct,12/10/2021,36,M,Permanent Home
+997207,Direct,12/11/2021,65,M,Unknown
+997207,Direct,12/11/2021,42,F,Unknown
+997207,Indirect,12/11/2021,67,M,Unknown
+997207,Direct,12/11/2021,27,M,Permanent Home
+997207,Direct,12/11/2021,77,F,Permanent Home
+997207,Direct,12/11/2021,64,F,Permanent Home
+997207,Direct,12/11/2021,36,F,Permanent Home
+997207,Direct,12/11/2021,35,M,Permanent Home
+997207,Direct,12/11/2021,16,F,Permanent Home
+997207,Direct,12/11/2021,Unknown,M,Permanent Home
+997207,Direct,12/11/2021,4,M,Permanent Home
+997207,Direct,12/11/2021,13,F,Permanent Home
+997207,Direct,12/11/2021,Unknown,F,Permanent Home
+997207,Direct,12/11/2021,Unknown,M,Permanent Home
+997207,Direct,12/11/2021,Unknown,F,Permanent Home
+997207,Direct,12/11/2021,0,F,Permanent Home
+997207,Direct,12/11/2021,0,F,Permanent Home
+997247,Direct,12/11/2021,42,F,Mobile/Trailer Home
+994196,Direct,12/10/2021,50,M,Mobile/Trailer Home
+994196,Direct,12/10/2021,80,F,Mobile/Trailer Home
+994196,Direct,12/10/2021,31,M,Mobile/Trailer Home
+994196,Direct,12/10/2021,31,F,Mobile/Trailer Home
+994196,Direct,12/10/2021,60,F,Unknown
+994196,Direct,12/10/2021,47,M,Long Span Roof
+994196,Direct,12/10/2021,50,F,Long Span Roof
+994196,Direct,12/10/2021,21,M,Long Span Roof
+994196,Direct,12/10/2021,52,F,Long Span Roof
+994196,Direct,12/10/2021,36,M,Long Span Roof
+994196,Direct,12/10/2021,57,F,Long Span Roof
+994196,Direct,12/10/2021,51,M,Long Span Roof
+994196,Direct,12/10/2021,30,F,Long Span Roof
+994196,Direct,12/15/2021,35,M,Long Span Roof
+994196,Direct,12/10/2021,7,F,Mobile/Trailer Home
+941340,Indirect,03/25/2021,56,M,Outside/Open Areas
+938002,Direct,01/25/2021,14,M,Permanent Home
+997127,Direct,12/10/2021,94,M,Permanent Structure
+997128,Direct,12/10/2021,52,F,Permanent Structure
+997130,Direct,12/10/2021,9,F,Permanent Home
+997130,Direct,12/10/2021,60,M,Vehicle/Towed Trailer
+997130,Indirect,12/10/2021,28,M,Vehicle/Towed Trailer
+997133,Direct,12/10/2021,47,M,Permanent Structure
+997133,Direct,12/10/2021,50,M,Permanent Structure
+997133,Direct,12/10/2021,12,M,Permanent Structure
+997135,Direct,12/10/2021,72,M,Vehicle/Towed Trailer
+996712,Direct,12/10/2021,46,M,Long Span Roof
+996712,Direct,12/10/2021,28,M,Long Span Roof
+996712,Direct,12/10/2021,62,M,Long Span Roof
+996712,Direct,12/10/2021,29,M,Long Span Roof
+996712,Direct,12/10/2021,34,F,Long Span Roof
+996712,Direct,12/10/2021,26,M,Long Span Roof
+996971,Direct,12/10/2021,84,F,Permanent Home
+954642,Direct,04/10/2021,28,M,Mobile/Trailer Home
+994196,Direct,12/10/2021,66,F,Mobile/Trailer Home
+995999,Direct,12/10/2021,70,M,Permanent Home
+996014,Direct,12/10/2021,72,F,Mobile/Trailer Home
+994196,Direct,12/10/2021,0,Unknown,Unknown
+995999,Direct,12/10/2021,67,M,Unknown
+994038,Direct,12/10/2021,57,M,Mobile/Trailer Home
+994196,Direct,12/10/2021,4,M,Mobile/Trailer Home
+994196,Direct,12/10/2021,60,F,Mobile/Trailer Home
+994196,Direct,12/10/2021,44,M,Mobile/Trailer Home
+994196,Direct,12/10/2021,3,M,Permanent Home
+994196,Direct,12/10/2021,87,M,Permanent Home
+994196,Direct,12/10/2021,77,F,Permanent Home
+994199,Indirect,12/10/2021,83,F,Outside/Open Areas
+994199,Direct,12/10/2021,78,F,Permanent Home
+994954,Direct,12/12/2021,98,F,Permanent Home
+995882,Direct,12/10/2021,72,F,Mobile/Trailer Home
+995882,Direct,12/10/2021,69,M,Mobile/Trailer Home
+995882,Direct,12/10/2021,73,M,Permanent Home
+995882,Direct,12/10/2021,67,M,Permanent Home
+995999,Direct,12/10/2021,67,F,Unknown
+995999,Direct,12/10/2021,86,M,Mobile/Trailer Home
+941492,Direct,03/27/2021,46,F,Mobile/Trailer Home
+989914,Direct,10/27/2021,Unknown,F,Vehicle/Towed Trailer

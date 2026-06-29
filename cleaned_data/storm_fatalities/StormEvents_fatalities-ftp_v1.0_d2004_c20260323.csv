@@ -1,0 +1,37 @@
+event_id,fatality_type,FATALITY_DATE,fatality_age,fatality_sex,fatality_location
+5427354,Direct,10/18/2004,86,M,Permanent Home
+5427354,Direct,10/18/2004,Unknown,F,Permanent Home
+5427354,Direct,10/18/2004,Unknown,M,Permanent Home
+5425478,Direct,11/24/2004,44,M,Permanent Home
+5425182,Direct,11/23/2004,77,F,Mobile/Trailer Home
+5425192,Direct,11/24/2004,75,F,Mobile/Trailer Home
+5432590,Direct,11/23/2004,89,F,Permanent Home
+5422944,Direct,09/16/2004,38,F,Vehicle/Towed Trailer
+5423449,Direct,09/15/2004,77,F,Permanent Home
+5423514,Direct,09/15/2004,84,M,Business
+5423515,Direct,09/15/2004,55,M,Permanent Home
+5423515,Direct,09/15/2004,35,F,Permanent Home
+5423515,Direct,09/15/2004,41,M,Permanent Home
+5423515,Direct,09/15/2004,37,F,Permanent Home
+5390599,Direct,04/20/2004,63,M,Business
+5390599,Direct,04/20/2004,41,F,Business
+5390599,Direct,04/20/2004,67,F,Business
+5390599,Direct,04/20/2004,81,F,Business
+5390599,Direct,04/20/2004,18,M,Business
+5390599,Direct,04/20/2004,49,M,Business
+5390599,Direct,04/20/2004,50,F,Business
+5390599,Direct,04/20/2004,47,M,Business
+5415069,Direct,09/27/2004,51,M,Mobile/Trailer Home
+5418859,Direct,08/13/2004,26,M,Mobile/Trailer Home
+5418859,Direct,08/13/2004,1,F,Mobile/Trailer Home
+5418859,Direct,08/13/2004,28,M,Mobile/Trailer Home
+5396244,Direct,05/22/2004,73,F,Permanent Home
+5396287,Direct,05/30/2004,39,M,Vehicle/Towed Trailer
+5396681,Direct,05/30/2004,83,M,Mobile/Trailer Home
+5398137,Direct,05/29/2004,80,F,Permanent Home
+5398137,Direct,05/29/2004,60,F,Permanent Home
+5398137,Direct,05/29/2004,54,M,Permanent Home
+5401775,Direct,05/30/2004,24,M,Ball Field
+5400995,Direct,05/25/2004,63,F,Mobile/Trailer Home
+5406508,Direct,06/23/2004,53,M,Permanent Home
+5410847,Direct,06/26/2004,72,M,Business

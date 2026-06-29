@@ -1,0 +1,56 @@
+event_id,fatality_type,FATALITY_DATE,fatality_age,fatality_sex,fatality_location
+428124,Direct,02/21/2013,74,F,Mobile/Trailer Home
+428260,Direct,01/30/2013,51,M,Mobile/Trailer Home
+439748,Direct,04/11/2013,28,M,Business
+443090,Direct,05/15/2013,61,M,Mobile/Trailer Home
+443090,Direct,05/15/2013,81,F,Mobile/Trailer Home
+462311,Direct,06/24/2013,Unknown,M,Business
+480989,Direct,11/17/2013,58,F,Mobile/Trailer Home
+480989,Direct,11/17/2013,56,M,Mobile/Trailer Home
+480989,Direct,11/17/2013,63,F,Mobile/Trailer Home
+443090,Direct,05/15/2013,34,M,Mobile/Trailer Home
+443090,Direct,05/15/2013,81,M,Mobile/Trailer Home
+443090,Direct,05/15/2013,69,M,Mobile/Trailer Home
+443090,Direct,05/15/2013,63,F,Mobile/Trailer Home
+444340,Direct,05/30/2013,33,M,Vehicle/Towed Trailer
+451506,Direct,05/19/2013,79,M,Mobile/Trailer Home
+451506,Direct,05/19/2013,76,M,Vehicle/Towed Trailer
+451572,Direct,05/20/2013,63,M,Business
+482450,Direct,11/17/2013,80,M,Permanent Home
+482450,Direct,11/17/2013,78,F,Permanent Home
+483775,Direct,11/17/2013,51,M,Permanent Home
+483775,Direct,11/28/2013,82,F,Permanent Home
+483775,Direct,01/02/2014,84,M,Permanent Home
+484464,Direct,12/21/2013,55,F,Unknown
+484469,Direct,12/21/2013,43,M,Unknown
+451572,Direct,05/20/2013,38,F,Permanent Home
+451572,Direct,05/20/2013,45,F,Permanent Home
+451572,Direct,05/20/2013,40,F,Permanent Home
+451572,Direct,05/20/2013,70,F,Permanent Home
+451572,Direct,05/20/2013,7,F,Permanent Home
+451572,Direct,05/20/2013,4,F,Permanent Home
+451572,Direct,05/20/2013,49,F,Permanent Home
+451572,Direct,05/20/2013,51,F,Permanent Home
+451572,Direct,05/20/2013,46,M,Permanent Home
+451572,Direct,05/20/2013,54,M,Permanent Home
+451572,Direct,05/20/2013,65,M,Permanent Home
+451572,Direct,05/20/2013,39,M,Permanent Home
+451572,Direct,08/01/2013,90,F,Permanent Home
+453682,Direct,05/31/2013,67,M,Vehicle/Towed Trailer
+453682,Direct,05/31/2013,35,M,Vehicle/Towed Trailer
+453682,Direct,05/31/2013,26,F,Vehicle/Towed Trailer
+453682,Direct,05/31/2013,0,M,Vehicle/Towed Trailer
+453682,Direct,05/31/2013,32,M,Vehicle/Towed Trailer
+453682,Direct,05/31/2013,55,M,Vehicle/Towed Trailer
+453682,Direct,05/31/2013,24,M,Vehicle/Towed Trailer
+453682,Direct,05/31/2013,45,M,Vehicle/Towed Trailer
+451572,Direct,05/20/2013,29,F,Permanent Structure
+451572,Direct,05/20/2013,49,F,Permanent Structure
+451572,Direct,05/20/2013,0,M,Permanent Structure
+451572,Direct,05/20/2013,9,F,School
+451572,Direct,05/20/2013,9,F,School
+451572,Direct,05/20/2013,9,F,School
+451572,Direct,05/20/2013,9,F,School
+451572,Direct,05/20/2013,8,M,School
+451572,Direct,05/20/2013,9,M,School
+451572,Direct,05/20/2013,9,M,School

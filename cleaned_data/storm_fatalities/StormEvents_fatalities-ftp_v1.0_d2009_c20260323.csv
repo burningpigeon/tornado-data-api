@@ -1,0 +1,26 @@
+event_id,fatality_type,FATALITY_DATE,fatality_age,fatality_sex,fatality_location
+165128,Direct,04/10/2009,1,F,Permanent Home
+165128,Direct,04/10/2009,30,F,Permanent Home
+170405,Indirect,05/08/2009,67,M,Permanent Home
+171718,Direct,05/13/2009,56,F,Mobile/Trailer Home
+171727,Direct,05/13/2009,47,M,Outside/Open Areas
+171727,Direct,05/13/2009,29,F,Outside/Open Areas
+172960,Direct,05/08/2009,35,M,Mobile/Trailer Home
+172960,Direct,05/08/2009,46,F,Mobile/Trailer Home
+190659,Indirect,08/03/2009,34,M,Under Tree
+154267,Direct,02/10/2009,36,M,Mobile/Trailer Home
+154267,Direct,02/10/2009,53,F,Mobile/Trailer Home
+154267,Direct,02/10/2009,54,F,Mobile/Trailer Home
+154267,Direct,02/10/2009,54,F,Mobile/Trailer Home
+154267,Direct,02/10/2009,30,M,Mobile/Trailer Home
+154267,Direct,02/10/2009,48,M,Mobile/Trailer Home
+154267,Direct,02/10/2009,78,M,Permanent Home
+154267,Direct,02/10/2009,39,M,Vehicle/Towed Trailer
+154302,Direct,04/09/2009,61,M,Permanent Home
+154302,Direct,04/09/2009,67,F,Permanent Home
+154302,Direct,04/09/2009,84,F,Permanent Structure
+154427,Indirect,04/10/2009,63,M,Vehicle/Towed Trailer
+154540,Direct,02/18/2009,60,M,Mobile/Trailer Home
+159800,Direct,04/19/2009,59,F,Mobile/Trailer Home
+197132,Direct,10/09/2009,60,F,Mobile/Trailer Home
+197789,Indirect,10/29/2009,Unknown,M,Vehicle/Towed Trailer

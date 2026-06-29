@@ -29,8 +29,10 @@ def clean_tornado_fatalities(storm_details_csv, storm_fatalities_csv):
     
     return tornado_fatalities
 
-storm_details = pd.read_csv('cleaned_data/tornado_data_cleaned.csv')
-storm_fatalities = pd.read_csv('imported_data/storm_fatalities/StormEvents_fatalities-ftp_v1.0_d2025_c20260323.csv')
 
-cleaned_data = clean_tornado_fatalities(storm_details, storm_fatalities)
-print(cleaned_data.head(5))
+if __name__ == "__main__":
+    storm_details = pd.read_csv('cleaned_data/tornado_data_cleaned.csv')
+    storm_fatalities = pd.read_csv('imported_data/storm_fatalities/StormEvents_fatalities-ftp_v1.0_d2025_c20260323.csv')
+
+    cleaned_data = clean_tornado_fatalities(storm_details, storm_fatalities)
+    print(cleaned_data.head(5))

@@ -1,0 +1,48 @@
+event_id,fatality_type,FATALITY_DATE,fatality_age,fatality_sex,fatality_location
+237666,Direct,05/02/2010,25,F,Mobile/Trailer Home
+237666,Direct,05/02/2010,26,M,Mobile/Trailer Home
+237687,Direct,05/02/2010,67,F,Mobile/Trailer Home
+237801,Direct,05/02/2010,45,F,Permanent Home
+239602,Direct,06/05/2010,20,F,Outside/Open Areas
+239602,Direct,06/05/2010,46,M,Permanent Home
+239602,Direct,07/29/2010,87,M,Permanent Home
+239602,Direct,06/12/2010,37,M,Permanent Home
+239602,Direct,06/05/2010,36,F,Permanent Home
+239602,Direct,06/05/2010,4,M,Permanent Home
+239602,Direct,06/05/2010,56,F,Vehicle/Towed Trailer
+219252,Direct,04/30/2010,67,F,Permanent Home
+243682,Direct,07/26/2010,10,M,Permanent Home
+243682,Direct,07/26/2010,46,M,Permanent Home
+224551,Direct,04/24/2010,79,F,Mobile/Trailer Home
+224551,Direct,04/24/2010,64,M,Mobile/Trailer Home
+224551,Direct,04/24/2010,51,M,Mobile/Trailer Home
+224551,Direct,04/24/2010,31,F,Mobile/Trailer Home
+224552,Direct,04/24/2010,70,M,Mobile/Trailer Home
+224615,Direct,04/24/2010,0,F,Mobile/Trailer Home
+224615,Direct,04/24/2010,9,F,Outside/Open Areas
+224615,Direct,04/24/2010,14,F,Outside/Open Areas
+224615,Direct,04/24/2010,58,F,Vehicle/Towed Trailer
+224615,Direct,04/24/2010,58,M,Vehicle/Towed Trailer
+226101,Direct,06/20/2010,69,M,Mobile/Trailer Home
+227647,Direct,06/27/2010,75,M,Camping
+228117,Indirect,04/24/2010,50,F,Unknown
+231404,Direct,06/17/2010,67,F,Mobile/Trailer Home
+231939,Direct,05/10/2010,41,M,Outside/Open Areas
+231939,Direct,06/08/2010,65,F,Outside/Open Areas
+231948,Direct,05/10/2010,27,F,Mobile/Trailer Home
+245530,Direct,06/17/2010,78,F,Outside/Open Areas
+245876,Direct,06/17/2010,58,M,Business
+211038,Direct,03/10/2010,79,M,Permanent Home
+267533,Direct,12/31/2010,88,M,Mobile/Trailer Home
+267533,Direct,12/31/2010,78,F,Mobile/Trailer Home
+267533,Direct,01/04/2011,95,F,Mobile/Trailer Home
+267533,Direct,12/31/2010,78,M,Outside/Open Areas
+267577,Direct,12/31/2010,69,F,Mobile/Trailer Home
+267577,Direct,12/31/2010,64,F,Mobile/Trailer Home
+267705,Direct,12/31/2010,21,F,Mobile/Trailer Home
+267705,Direct,12/31/2010,64,F,Mobile/Trailer Home
+254958,Direct,08/12/2010,51,M,Vehicle/Towed Trailer
+255627,Direct,09/16/2010,57,M,Permanent Home
+262537,Indirect,09/16/2010,57,M,Unknown
+262537,Direct,09/16/2010,Unknown,F,Vehicle/Towed Trailer
+275090,Direct,01/10/2011,70,F,Vehicle/Towed Trailer

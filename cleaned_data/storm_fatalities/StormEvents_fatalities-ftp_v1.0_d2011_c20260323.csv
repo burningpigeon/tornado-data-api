@@ -1,0 +1,568 @@
+event_id,fatality_type,FATALITY_DATE,fatality_age,fatality_sex,fatality_location
+300477,Direct,04/16/2011,92,M,Mobile/Trailer Home
+300477,Direct,04/16/2011,50,M,Mobile/Trailer Home
+300477,Direct,04/16/2011,54,F,Mobile/Trailer Home
+300502,Direct,04/16/2011,50,M,Mobile/Trailer Home
+300747,Direct,04/27/2011,56,M,Vehicle/Towed Trailer
+301771,Direct,04/27/2011,83,M,Permanent Home
+301811,Direct,04/27/2011,68,F,Unknown
+301811,Direct,04/27/2011,45,M,Unknown
+301811,Direct,04/27/2011,35,M,Unknown
+340632,Direct,08/10/2011,82,F,Mobile/Trailer Home
+347518,Direct,04/27/2011,47,M,Mobile/Trailer Home
+347518,Direct,04/27/2011,63,M,Permanent Home
+347518,Direct,04/27/2011,70,M,Permanent Home
+347518,Direct,04/27/2011,56,F,Permanent Home
+347518,Direct,04/27/2011,58,M,Permanent Home
+347518,Direct,04/27/2011,47,F,Permanent Home
+289571,Direct,04/15/2011,7,M,Permanent Home
+289592,Direct,04/26/2011,1,M,Permanent Home
+289612,Direct,04/25/2011,63,M,Mobile/Trailer Home
+289612,Direct,04/25/2011,55,M,Mobile/Trailer Home
+289612,Direct,04/25/2011,45,M,Other
+289612,Direct,04/25/2011,45,F,Other
+292185,Direct,03/05/2011,21,F,Permanent Home
+294036,Direct,04/27/2011,42,F,Permanent Home
+294036,Direct,04/27/2011,77,M,Permanent Home
+294036,Direct,04/27/2011,33,F,Permanent Home
+294036,Direct,04/27/2011,56,F,Permanent Home
+294080,Direct,05/22/2011,59,M,Vehicle/Towed Trailer
+295351,Direct,04/05/2011,45,M,Mobile/Trailer Home
+295476,Direct,05/21/2011,53,M,Mobile/Trailer Home
+314662,Direct,04/27/2011,85,F,Permanent Home
+314662,Direct,04/27/2011,36,M,Permanent Home
+314662,Direct,04/27/2011,88,F,Permanent Home
+314662,Direct,04/27/2011,23,F,Permanent Home
+314662,Direct,04/27/2011,22,M,Permanent Home
+314662,Direct,04/27/2011,15,M,Permanent Home
+314662,Direct,04/27/2011,55,F,Permanent Home
+314662,Direct,04/27/2011,21,M,Permanent Home
+314662,Direct,06/08/2011,80,F,Permanent Home
+314662,Direct,09/16/2011,50,M,Permanent Home
+314662,Direct,04/27/2011,51,M,Permanent Structure
+314662,Direct,04/27/2011,3,M,Permanent Structure
+314662,Direct,04/27/2011,21,F,Permanent Structure
+314662,Direct,04/27/2011,1,F,Permanent Structure
+314662,Direct,04/27/2011,22,F,Permanent Structure
+314662,Direct,04/27/2011,5,F,Permanent Structure
+314662,Direct,04/27/2011,58,F,Permanent Structure
+314662,Direct,04/27/2011,50,F,Permanent Structure
+314662,Direct,04/27/2011,1,F,Permanent Structure
+314662,Direct,04/27/2011,2,F,Permanent Structure
+314662,Direct,04/27/2011,26,F,Permanent Structure
+314662,Direct,04/27/2011,21,M,Permanent Structure
+296617,Direct,05/22/2011,63,F,Permanent Structure
+296617,Direct,05/22/2011,48,M,Permanent Structure
+296617,Direct,05/22/2011,82,F,Permanent Structure
+296617,Direct,05/22/2011,83,F,Permanent Structure
+296617,Direct,05/22/2011,48,M,Permanent Structure
+296617,Direct,05/22/2011,71,F,Permanent Structure
+296617,Direct,05/22/2011,92,F,Permanent Structure
+296617,Direct,05/22/2011,85,M,Permanent Structure
+296617,Direct,05/22/2011,52,M,Permanent Structure
+296617,Direct,05/22/2011,74,M,Permanent Structure
+296617,Indirect,05/22/2011,84,M,Permanent Structure
+296617,Indirect,05/22/2011,39,M,Permanent Structure
+296617,Indirect,05/22/2011,77,M,Permanent Structure
+296617,Direct,05/22/2011,68,M,Permanent Structure
+296617,Direct,05/22/2011,43,F,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,66,M,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,39,M,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,28,M,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,63,M,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,16,M,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,47,F,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,70,F,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,48,M,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,44,M,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,18,M,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,34,M,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,68,F,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,68,F,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,28,M,Vehicle/Towed Trailer
+296776,Direct,04/15/2011,57,F,Mobile/Trailer Home
+296786,Direct,04/15/2011,38,F,Mobile/Trailer Home
+296786,Direct,04/15/2011,10,M,Mobile/Trailer Home
+296786,Direct,04/15/2011,13,M,Mobile/Trailer Home
+296789,Direct,04/27/2011,62,F,Mobile/Trailer Home
+296789,Direct,04/27/2011,70,M,Mobile/Trailer Home
+296789,Direct,04/27/2011,63,M,Mobile/Trailer Home
+296789,Direct,04/27/2011,60,F,Mobile/Trailer Home
+296789,Direct,04/27/2011,56,F,Permanent Home
+296789,Direct,04/27/2011,31,M,Permanent Home
+296789,Direct,04/27/2011,17,M,Permanent Home
+296789,Direct,04/27/2011,77,F,Permanent Home
+297492,Direct,04/16/2011,82,F,Mobile/Trailer Home
+297552,Direct,04/16/2011,42,M,Mobile/Trailer Home
+297632,Direct,04/27/2011,63,F,Permanent Home
+297650,Direct,04/27/2011,54,F,Permanent Home
+297650,Direct,04/27/2011,53,F,Permanent Home
+297659,Direct,04/16/2011,43,M,Mobile/Trailer Home
+297659,Direct,04/16/2011,43,M,Vehicle/Towed Trailer
+297671,Direct,04/19/2011,0,F,Mobile/Trailer Home
+297671,Direct,04/16/2011,9,M,Mobile/Trailer Home
+297671,Direct,04/16/2011,8,M,Mobile/Trailer Home
+297671,Direct,04/16/2011,3,M,Mobile/Trailer Home
+298380,Direct,04/28/2011,59,M,Mobile/Trailer Home
+298380,Direct,04/28/2011,67,F,Mobile/Trailer Home
+298380,Direct,04/28/2011,71,M,Permanent Home
+298380,Indirect,04/28/2011,60,F,Vehicle/Towed Trailer
+300457,Direct,04/27/2011,40,F,Permanent Home
+301811,Direct,04/27/2011,78,M,Unknown
+301811,Direct,04/27/2011,41,F,Unknown
+301811,Direct,04/27/2011,63,M,Unknown
+301811,Direct,04/27/2011,50,F,Unknown
+301811,Direct,04/27/2011,48,M,Unknown
+301811,Direct,04/27/2011,81,M,Unknown
+301811,Direct,04/27/2011,67,M,Unknown
+301811,Direct,04/27/2011,57,F,Unknown
+301811,Direct,04/27/2011,10,M,Unknown
+301811,Direct,04/27/2011,33,F,Unknown
+301811,Direct,04/27/2011,45,M,Unknown
+301811,Direct,04/27/2011,9,M,Unknown
+301811,Direct,04/27/2011,24,F,Unknown
+301811,Direct,04/27/2011,32,M,Unknown
+301811,Direct,04/27/2011,83,F,Unknown
+301811,Direct,04/27/2011,47,F,Unknown
+301811,Direct,04/27/2011,52,F,Church
+301811,Direct,04/27/2011,56,F,Church
+301811,Direct,04/27/2011,38,F,Church
+301811,Direct,04/27/2011,67,M,Church
+301811,Direct,04/27/2011,76,M,Church
+301811,Direct,04/27/2011,64,F,Church
+301811,Direct,04/27/2011,89,F,Permanent Home
+301811,Direct,04/27/2011,64,F,Permanent Structure
+301829,Direct,04/27/2011,36,F,Unknown
+301829,Direct,04/27/2011,65,M,Unknown
+301829,Direct,04/27/2011,64,F,Unknown
+301829,Direct,04/27/2011,34,M,Unknown
+301829,Direct,04/27/2011,32,F,Unknown
+301829,Direct,04/27/2011,6,F,Unknown
+301829,Direct,04/27/2011,3,F,Unknown
+301829,Direct,04/27/2011,61,F,Unknown
+301829,Direct,04/27/2011,56,M,Unknown
+301829,Direct,04/27/2011,90,F,Unknown
+301829,Direct,04/27/2011,74,M,Unknown
+301829,Direct,04/27/2011,75,F,Unknown
+301829,Direct,04/27/2011,28,F,Unknown
+301829,Direct,04/27/2011,86,F,Unknown
+301829,Direct,04/27/2011,48,M,Unknown
+301829,Direct,04/27/2011,15,F,Unknown
+301829,Direct,04/27/2011,80,F,Unknown
+301829,Direct,04/27/2011,81,F,Unknown
+301829,Direct,04/27/2011,55,F,Unknown
+301829,Direct,04/27/2011,42,M,Unknown
+301829,Direct,04/27/2011,44,F,Unknown
+301829,Direct,04/27/2011,70,F,Unknown
+301829,Direct,04/27/2011,70,M,Unknown
+301829,Direct,04/27/2011,87,F,Permanent Home
+301829,Direct,04/27/2011,53,M,Permanent Home
+301846,Direct,04/27/2011,21,M,Mobile/Trailer Home
+301846,Direct,04/27/2011,63,M,Mobile/Trailer Home
+301846,Direct,04/27/2011,74,M,Mobile/Trailer Home
+301846,Direct,04/27/2011,76,F,Mobile/Trailer Home
+301846,Direct,04/27/2011,78,M,Mobile/Trailer Home
+301846,Direct,04/27/2011,73,M,Mobile/Trailer Home
+301846,Direct,04/27/2011,80,M,Mobile/Trailer Home
+301846,Direct,04/27/2011,49,M,Mobile/Trailer Home
+301846,Direct,04/27/2011,66,M,Mobile/Trailer Home
+301846,Direct,04/27/2011,58,M,Permanent Home
+301846,Direct,04/27/2011,12,F,Permanent Home
+301846,Direct,04/27/2011,80,F,Permanent Home
+301846,Direct,04/27/2011,84,F,Permanent Home
+301846,Direct,04/27/2011,83,M,Permanent Home
+301882,Direct,04/27/2011,13,M,Vehicle/Towed Trailer
+301902,Direct,04/27/2011,54,F,Permanent Home
+301902,Direct,04/27/2011,55,M,Permanent Home
+301902,Direct,04/27/2011,39,F,Permanent Structure
+301902,Direct,04/27/2011,67,F,Vehicle/Towed Trailer
+296617,Direct,05/22/2011,71,M,Unknown
+296617,Direct,05/22/2011,54,F,Unknown
+296617,Direct,05/22/2011,48,F,Unknown
+296617,Direct,05/22/2011,56,F,Unknown
+296617,Direct,05/22/2011,79,F,Unknown
+296617,Direct,05/22/2011,88,M,Unknown
+296617,Direct,05/22/2011,49,M,Unknown
+296617,Direct,05/22/2011,91,F,Unknown
+296617,Direct,05/22/2011,85,M,Unknown
+296617,Direct,05/22/2011,91,F,Unknown
+296617,Direct,05/22/2011,16,F,Business
+296617,Direct,05/22/2011,59,M,Business
+296617,Direct,05/22/2011,34,F,Business
+296617,Direct,05/22/2011,27,M,Business
+296617,Direct,05/22/2011,66,F,Business
+296617,Direct,05/22/2011,62,F,Business
+296617,Direct,05/22/2011,9,M,Church
+296617,Direct,05/22/2011,55,F,Church
+296617,Direct,05/22/2011,17,F,Church
+296617,Direct,05/22/2011,78,F,Church
+296617,Direct,05/22/2011,57,F,Church
+296617,Direct,05/22/2011,49,M,Church
+296617,Direct,05/22/2011,58,F,Church
+296617,Direct,05/22/2011,41,M,Church
+296617,Direct,05/22/2011,8,F,Church
+296617,Direct,05/22/2011,77,F,Church
+296617,Direct,05/22/2011,46,F,Church
+296617,Direct,05/22/2011,20,F,Long Span Roof
+296617,Direct,05/22/2011,59,M,Long Span Roof
+296617,Direct,05/22/2011,40,M,Long Span Roof
+296617,Direct,05/22/2011,41,F,Long Span Roof
+296617,Direct,05/22/2011,37,M,Long Span Roof
+296617,Direct,05/22/2011,62,M,Long Span Roof
+296617,Direct,05/22/2011,50,F,Long Span Roof
+296617,Direct,05/22/2011,29,M,Long Span Roof
+296617,Direct,05/22/2011,5,F,Long Span Roof
+296617,Direct,05/22/2011,1,M,Long Span Roof
+296617,Direct,05/22/2011,21,M,Long Span Roof
+296617,Direct,05/22/2011,27,M,Long Span Roof
+296617,Direct,05/22/2011,27,M,Mobile/Trailer Home
+296617,Direct,05/22/2011,70,M,Mobile/Trailer Home
+296617,Direct,05/22/2011,23,F,Outside/Open Areas
+296617,Direct,05/22/2011,49,F,Outside/Open Areas
+296617,Direct,05/22/2011,23,M,Permanent Home
+296617,Direct,05/22/2011,83,F,Permanent Home
+296617,Direct,05/22/2011,36,F,Permanent Home
+296617,Direct,05/22/2011,92,F,Permanent Home
+296617,Direct,05/22/2011,33,M,Permanent Home
+296617,Direct,05/22/2011,1,M,Permanent Home
+296617,Direct,05/22/2011,44,M,Permanent Home
+296617,Direct,05/22/2011,12,M,Permanent Home
+296617,Direct,05/22/2011,71,M,Permanent Home
+296617,Direct,05/22/2011,70,M,Permanent Home
+296617,Direct,05/22/2011,76,M,Permanent Home
+296617,Direct,05/22/2011,80,F,Permanent Home
+296617,Direct,05/22/2011,50,F,Permanent Home
+296617,Direct,05/22/2011,64,F,Permanent Home
+296617,Direct,05/22/2011,66,F,Permanent Home
+296617,Direct,05/22/2011,52,M,Permanent Home
+296617,Direct,05/22/2011,76,F,Permanent Home
+296617,Direct,05/22/2011,77,M,Permanent Home
+296617,Direct,05/22/2011,91,F,Permanent Home
+296617,Direct,05/22/2011,64,F,Permanent Home
+296617,Direct,05/22/2011,83,F,Permanent Home
+296617,Direct,05/22/2011,72,F,Permanent Home
+296617,Direct,05/22/2011,64,M,Permanent Home
+296617,Direct,05/22/2011,52,F,Permanent Home
+296617,Direct,05/22/2011,68,F,Permanent Home
+296617,Direct,05/22/2011,69,M,Permanent Home
+296617,Direct,05/22/2011,65,F,Permanent Home
+296617,Direct,05/22/2011,33,F,Permanent Home
+296617,Direct,05/22/2011,64,F,Permanent Home
+296617,Direct,05/22/2011,1,M,Permanent Home
+296617,Direct,05/22/2011,65,F,Permanent Home
+296617,Direct,05/22/2011,31,M,Permanent Home
+296617,Direct,05/22/2011,69,F,Permanent Home
+296617,Direct,05/22/2011,26,M,Permanent Home
+296617,Direct,05/22/2011,53,F,Permanent Home
+296617,Direct,05/22/2011,87,F,Permanent Home
+296617,Direct,05/22/2011,48,F,Permanent Home
+296617,Direct,05/22/2011,48,F,Permanent Home
+296617,Direct,05/22/2011,60,M,Permanent Home
+296617,Direct,05/22/2011,76,F,Permanent Home
+296617,Direct,05/22/2011,77,M,Permanent Home
+296617,Direct,05/22/2011,10,M,Permanent Home
+296617,Direct,05/22/2011,32,F,Permanent Home
+296617,Direct,05/22/2011,56,M,Permanent Home
+296617,Direct,05/22/2011,61,M,Permanent Home
+296617,Direct,05/22/2011,86,F,Permanent Home
+296617,Direct,05/22/2011,56,M,Permanent Home
+296617,Direct,05/22/2011,71,F,Permanent Home
+296617,Direct,05/22/2011,76,F,Permanent Home
+296617,Direct,05/22/2011,74,F,Permanent Home
+351147,Direct,11/16/2011,50,F,Permanent Home
+351147,Direct,11/16/2011,3,F,Permanent Home
+296617,Direct,05/22/2011,36,F,Permanent Home
+296617,Direct,05/22/2011,58,F,Permanent Home
+296617,Direct,05/22/2011,49,M,Permanent Home
+296617,Direct,05/22/2011,6,M,Permanent Home
+296617,Direct,05/22/2011,10,F,Permanent Home
+296617,Direct,05/22/2011,28,F,Permanent Home
+296617,Direct,05/22/2011,85,M,Permanent Home
+301925,Direct,04/27/2011,81,F,Permanent Home
+301925,Direct,04/27/2011,89,M,Permanent Home
+301925,Direct,04/27/2011,75,F,Permanent Home
+301925,Direct,04/27/2011,77,M,Permanent Home
+301925,Direct,04/27/2011,58,F,Permanent Structure
+301925,Direct,04/27/2011,80,F,Permanent Structure
+301929,Direct,04/27/2011,Unknown,Unknown,Unknown
+301929,Direct,04/27/2011,Unknown,Unknown,Unknown
+301929,Direct,04/27/2011,Unknown,Unknown,Unknown
+301929,Direct,04/27/2011,Unknown,Unknown,Unknown
+301929,Direct,04/27/2011,Unknown,Unknown,Unknown
+301929,Direct,04/27/2011,Unknown,Unknown,Unknown
+301943,Direct,04/27/2011,68,M,Permanent Home
+302067,Direct,04/27/2011,54,F,Permanent Home
+302067,Direct,04/27/2011,1,M,Permanent Home
+302067,Direct,04/27/2011,31,F,Permanent Home
+302067,Direct,04/27/2011,56,M,Permanent Home
+302067,Direct,04/27/2011,37,M,Permanent Home
+302192,Direct,04/27/2011,20,M,Vehicle/Towed Trailer
+303247,Direct,04/27/2011,24,M,Permanent Home
+303247,Direct,04/27/2011,56,F,Permanent Home
+303247,Direct,04/27/2011,62,F,Permanent Home
+303248,Direct,04/27/2011,55,M,Vehicle/Towed Trailer
+303562,Direct,04/27/2011,18,F,Unknown
+303562,Direct,04/27/2011,41,M,Unknown
+303562,Direct,04/27/2011,21,F,Unknown
+303562,Direct,04/27/2011,37,F,Unknown
+303562,Direct,04/27/2011,70,M,Unknown
+303562,Direct,04/27/2011,80,F,Permanent Home
+303562,Direct,04/27/2011,80,F,Permanent Home
+303562,Direct,04/27/2011,63,M,Permanent Home
+303562,Direct,04/27/2011,61,F,Permanent Home
+303562,Direct,04/27/2011,80,M,Permanent Home
+303562,Direct,04/27/2011,77,F,Permanent Home
+303562,Direct,04/27/2011,84,M,Permanent Home
+303562,Direct,04/27/2011,70,F,Permanent Home
+303562,Direct,04/27/2011,79,F,Permanent Home
+303562,Direct,04/27/2011,92,F,Permanent Home
+303562,Direct,04/27/2011,78,F,Permanent Home
+303871,Direct,04/27/2011,55,F,Mobile/Trailer Home
+304631,Direct,04/27/2011,49,M,Permanent Home
+304631,Direct,04/27/2011,47,M,Permanent Home
+304929,Direct,04/16/2011,57,M,Mobile/Trailer Home
+304929,Direct,04/16/2011,96,F,Mobile/Trailer Home
+304929,Direct,04/16/2011,64,F,Permanent Home
+304929,Direct,04/16/2011,56,F,Permanent Home
+304929,Direct,04/16/2011,60,F,Permanent Home
+304929,Direct,04/16/2011,66,F,Permanent Home
+304929,Direct,04/16/2011,51,M,Permanent Home
+304929,Direct,04/16/2011,68,F,Permanent Home
+304929,Direct,04/16/2011,72,M,Permanent Home
+304929,Direct,04/16/2011,90,F,Permanent Home
+304929,Direct,04/16/2011,54,M,Permanent Home
+304929,Direct,04/16/2011,50,F,Permanent Home
+305268,Direct,04/27/2011,16,F,Permanent Home
+305268,Direct,04/27/2011,21,M,Permanent Home
+305268,Direct,04/27/2011,46,F,Permanent Home
+305268,Direct,04/27/2011,47,M,Permanent Home
+305268,Direct,04/27/2011,26,F,Permanent Home
+305268,Direct,04/27/2011,47,M,Permanent Home
+305268,Direct,04/27/2011,61,M,Permanent Home
+305268,Direct,04/27/2011,86,M,Permanent Home
+305469,Direct,04/16/2011,53,M,Mobile/Trailer Home
+305469,Direct,04/16/2011,90,M,Mobile/Trailer Home
+305738,Direct,04/27/2011,47,M,Permanent Home
+306842,Direct,04/27/2011,22,F,Mobile/Trailer Home
+306842,Direct,04/27/2011,55,M,Mobile/Trailer Home
+306883,Direct,04/27/2011,63,F,Permanent Home
+306883,Direct,04/27/2011,73,M,Permanent Home
+307342,Direct,04/27/2011,76,M,Mobile/Trailer Home
+307342,Direct,04/27/2011,69,F,Mobile/Trailer Home
+307342,Direct,04/27/2011,60,M,Permanent Home
+307342,Direct,04/27/2011,60,F,Permanent Home
+308462,Direct,05/25/2011,31,F,Mobile/Trailer Home
+296617,Direct,05/22/2011,86,F,Permanent Home
+296617,Direct,05/22/2011,88,F,Permanent Home
+296617,Direct,05/22/2011,46,M,Permanent Home
+296617,Direct,05/22/2011,54,M,Permanent Home
+296617,Direct,05/22/2011,56,M,Permanent Home
+296617,Direct,05/22/2011,47,F,Permanent Home
+296617,Direct,05/22/2011,53,M,Permanent Home
+296617,Direct,05/22/2011,59,M,Permanent Home
+296617,Direct,05/22/2011,76,F,Permanent Structure
+296617,Direct,05/22/2011,52,M,Permanent Structure
+296617,Direct,05/22/2011,87,M,Permanent Structure
+296617,Direct,05/22/2011,55,F,Permanent Structure
+296617,Direct,05/22/2011,86,M,Permanent Structure
+296617,Direct,05/22/2011,52,M,Permanent Structure
+296617,Direct,05/22/2011,94,F,Permanent Structure
+296617,Direct,05/22/2011,49,F,Permanent Structure
+296617,Direct,05/22/2011,70,M,Permanent Structure
+296617,Direct,05/22/2011,88,F,Permanent Structure
+296617,Direct,05/22/2011,61,M,Permanent Structure
+296617,Direct,05/22/2011,91,F,Permanent Structure
+296617,Direct,05/22/2011,39,F,Permanent Structure
+296617,Direct,05/22/2011,63,M,Permanent Structure
+296617,Direct,05/22/2011,84,F,Permanent Structure
+296617,Direct,05/22/2011,52,F,Permanent Structure
+296617,Direct,05/22/2011,60,F,Permanent Structure
+296617,Direct,05/22/2011,60,F,Permanent Structure
+296617,Direct,05/22/2011,49,M,Permanent Structure
+296617,Direct,05/22/2011,39,F,Permanent Structure
+296617,Direct,05/22/2011,82,M,Permanent Structure
+296617,Direct,05/22/2011,91,F,Permanent Structure
+296617,Direct,05/22/2011,42,F,Permanent Structure
+296617,Direct,05/22/2011,62,F,Permanent Structure
+285080,Direct,04/14/2011,75,F,Mobile/Trailer Home
+285080,Direct,04/14/2011,80,F,Mobile/Trailer Home
+309295,Direct,04/27/2011,52,F,Permanent Home
+309295,Direct,04/27/2011,49,M,Permanent Home
+309488,Direct,04/27/2011,34,F,Unknown
+309488,Direct,04/27/2011,77,F,Unknown
+309488,Direct,04/27/2011,76,M,Unknown
+309488,Direct,04/27/2011,81,M,Unknown
+309488,Direct,04/27/2011,55,F,Unknown
+309488,Direct,04/27/2011,70,M,Unknown
+309488,Direct,04/27/2011,24,M,Unknown
+309488,Direct,04/27/2011,57,F,Long Span Roof
+309488,Direct,04/27/2011,37,F,Mobile/Trailer Home
+309488,Direct,04/27/2011,32,M,Mobile/Trailer Home
+309488,Direct,04/27/2011,47,F,Mobile/Trailer Home
+309488,Direct,04/27/2011,70,F,Mobile/Trailer Home
+309488,Direct,04/27/2011,53,M,Outside/Open Areas
+309488,Direct,04/27/2011,50,F,Outside/Open Areas
+309488,Direct,04/27/2011,68,F,Permanent Home
+309488,Direct,04/27/2011,75,M,Permanent Home
+309488,Direct,04/27/2011,79,F,Permanent Home
+309488,Direct,04/27/2011,69,F,Permanent Home
+310083,Direct,04/15/2011,96,M,Mobile/Trailer Home
+311613,Indirect,04/27/2011,68,M,Under Tree
+311717,Direct,04/15/2011,69,M,Mobile/Trailer Home
+311717,Direct,04/15/2011,41,M,Mobile/Trailer Home
+311717,Direct,04/15/2011,38,F,Mobile/Trailer Home
+313004,Direct,05/24/2011,42,F,Mobile/Trailer Home
+313010,Direct,05/24/2011,35,F,Mobile/Trailer Home
+313010,Direct,06/14/2011,64,F,Mobile/Trailer Home
+314662,Direct,04/27/2011,1,M,Mobile/Trailer Home
+314662,Direct,04/27/2011,43,F,Mobile/Trailer Home
+314662,Direct,04/27/2011,55,M,Mobile/Trailer Home
+314662,Direct,04/27/2011,57,M,Mobile/Trailer Home
+314662,Direct,04/27/2011,61,F,Mobile/Trailer Home
+314662,Direct,04/27/2011,66,M,Mobile/Trailer Home
+314662,Direct,04/27/2011,37,F,Mobile/Trailer Home
+314662,Direct,04/27/2011,62,F,Mobile/Trailer Home
+314662,Direct,04/27/2011,23,M,Permanent Home
+314662,Direct,04/27/2011,35,F,Permanent Home
+314662,Direct,04/27/2011,24,F,Permanent Home
+314662,Direct,04/27/2011,8,F,Permanent Home
+314662,Direct,04/27/2011,5,M,Permanent Home
+314662,Direct,04/27/2011,26,F,Permanent Home
+314662,Direct,04/27/2011,45,F,Permanent Home
+314662,Direct,04/27/2011,89,F,Permanent Home
+314662,Direct,04/27/2011,95,F,Permanent Home
+314662,Direct,04/27/2011,64,F,Permanent Home
+314662,Direct,04/27/2011,61,F,Permanent Home
+314662,Direct,04/27/2011,24,M,Permanent Home
+308464,Direct,05/25/2011,65,M,Permanent Home
+308979,Direct,04/27/2011,46,F,Mobile/Trailer Home
+309071,Direct,04/27/2011,47,M,Mobile/Trailer Home
+309071,Direct,04/27/2011,43,F,Mobile/Trailer Home
+309071,Direct,04/27/2011,45,M,Mobile/Trailer Home
+309071,Direct,04/27/2011,89,F,Mobile/Trailer Home
+309071,Direct,04/27/2011,64,F,Permanent Home
+309071,Direct,04/27/2011,10,M,Permanent Home
+309071,Direct,04/27/2011,12,M,Permanent Home
+309071,Direct,04/27/2011,46,F,Permanent Home
+309071,Direct,04/27/2011,24,M,Permanent Home
+309095,Direct,04/27/2011,58,M,Permanent Home
+309095,Direct,04/27/2011,15,F,Permanent Home
+309095,Direct,04/27/2011,65,M,Permanent Home
+309095,Direct,04/27/2011,32,F,Permanent Home
+309095,Direct,04/27/2011,40,M,Permanent Home
+309095,Direct,04/27/2011,61,M,Permanent Home
+309095,Direct,04/27/2011,79,F,Permanent Home
+309095,Direct,04/27/2011,72,M,Permanent Home
+309095,Direct,04/27/2011,37,F,Permanent Home
+309295,Direct,04/27/2011,51,M,Unknown
+309295,Direct,04/27/2011,43,F,Unknown
+309295,Direct,04/27/2011,52,F,Permanent Home
+309295,Direct,04/27/2011,5,M,Permanent Home
+309295,Direct,04/27/2011,53,F,Permanent Home
+314662,Direct,06/01/2011,22,F,Permanent Structure
+314662,Indirect,05/09/2011,98,F,Permanent Structure
+314662,Indirect,05/13/2011,78,M,Permanent Structure
+314662,Indirect,06/05/2011,81,F,Permanent Structure
+314662,Indirect,05/24/2011,97,F,Permanent Structure
+314662,Indirect,05/11/2011,83,M,Permanent Structure
+314662,Indirect,05/29/2011,85,M,Permanent Structure
+314662,Indirect,06/24/2011,88,M,Permanent Structure
+314662,Indirect,06/05/2011,81,M,Permanent Structure
+314662,Direct,04/27/2011,73,F,Vehicle/Towed Trailer
+314663,Direct,04/27/2011,72,F,Permanent Home
+314663,Direct,04/27/2011,73,F,Permanent Home
+314663,Direct,04/27/2011,66,M,Permanent Home
+314663,Direct,04/27/2011,47,F,Permanent Home
+314663,Direct,04/27/2011,71,F,Permanent Home
+314663,Direct,04/27/2011,55,F,Permanent Home
+314663,Direct,04/27/2011,27,F,Permanent Home
+314663,Direct,04/27/2011,26,F,Permanent Home
+314663,Direct,04/27/2011,75,F,Permanent Home
+289571,Direct,04/15/2011,34,F,Permanent Home
+300457,Direct,04/27/2011,42,F,Permanent Home
+300457,Direct,04/27/2011,0,M,Permanent Home
+300457,Direct,04/27/2011,67,F,Permanent Home
+300460,Direct,04/27/2011,43,F,Mobile/Trailer Home
+300460,Direct,04/27/2011,39,M,Mobile/Trailer Home
+300460,Direct,04/27/2011,64,F,Vehicle/Towed Trailer
+300460,Direct,04/27/2011,70,F,Vehicle/Towed Trailer
+323440,Direct,06/01/2011,52,F,Mobile/Trailer Home
+323440,Direct,06/01/2011,39,F,Permanent Home
+323440,Direct,06/01/2011,23,M,Vehicle/Towed Trailer
+324661,Direct,08/19/2011,46,M,Mobile/Trailer Home
+328740,Direct,05/24/2011,56,F,Unknown
+328740,Direct,05/24/2011,17,M,Unknown
+314663,Direct,04/27/2011,10,M,Permanent Home
+314663,Direct,04/27/2011,30,F,Permanent Home
+314663,Direct,04/27/2011,8,F,Permanent Home
+314663,Direct,04/27/2011,26,F,Permanent Home
+314663,Direct,04/27/2011,53,M,Permanent Home
+314663,Direct,04/27/2011,64,M,Permanent Home
+314663,Direct,04/27/2011,57,F,Permanent Home
+314663,Direct,04/27/2011,47,F,Permanent Home
+314663,Direct,04/27/2011,81,F,Permanent Home
+314663,Direct,04/27/2011,39,F,Permanent Home
+314663,Direct,04/27/2011,56,F,Permanent Home
+314742,Direct,04/27/2011,68,F,Mobile/Trailer Home
+314742,Direct,04/27/2011,70,M,Mobile/Trailer Home
+314742,Direct,04/27/2011,64,M,Mobile/Trailer Home
+314742,Direct,04/27/2011,26,M,Mobile/Trailer Home
+314742,Direct,04/27/2011,55,M,Mobile/Trailer Home
+314742,Direct,04/27/2011,25,F,Mobile/Trailer Home
+314799,Direct,04/27/2011,55,M,Vehicle/Towed Trailer
+314886,Direct,04/27/2011,7,F,Mobile/Trailer Home
+314886,Direct,04/27/2011,56,M,Mobile/Trailer Home
+314886,Direct,04/27/2011,31,F,Mobile/Trailer Home
+314886,Direct,04/27/2011,91,F,Mobile/Trailer Home
+314886,Direct,04/27/2011,64,M,Mobile/Trailer Home
+314886,Direct,04/27/2011,97,F,Mobile/Trailer Home
+314886,Direct,04/27/2011,68,F,Mobile/Trailer Home
+314886,Direct,04/27/2011,86,M,Mobile/Trailer Home
+314886,Direct,04/27/2011,1,Unknown,Other
+314886,Direct,04/27/2011,44,M,Permanent Home
+314886,Direct,04/27/2011,43,F,Permanent Home
+314886,Direct,04/27/2011,68,M,Permanent Home
+314886,Direct,04/27/2011,68,F,Permanent Home
+314900,Direct,04/27/2011,33,M,Church
+314900,Direct,04/27/2011,61,F,Mobile/Trailer Home
+314900,Direct,04/27/2011,49,F,Permanent Home
+314900,Direct,04/27/2011,54,M,Permanent Home
+314900,Direct,04/27/2011,72,F,Permanent Home
+314900,Direct,04/27/2011,63,F,Permanent Home
+314900,Direct,04/27/2011,67,M,Permanent Home
+314900,Direct,04/27/2011,65,M,Permanent Home
+314923,Direct,04/27/2011,13,F,Permanent Home
+315331,Direct,04/27/2011,23,F,Mobile/Trailer Home
+315331,Direct,04/27/2011,5,F,Mobile/Trailer Home
+315331,Direct,04/27/2011,43,F,Mobile/Trailer Home
+315331,Direct,04/27/2011,67,F,Mobile/Trailer Home
+354821,Direct,11/16/2011,60,M,Mobile/Trailer Home
+354821,Direct,11/16/2011,62,F,Mobile/Trailer Home
+354821,Direct,11/16/2011,60,M,Permanent Home
+335363,Indirect,08/23/2011,Unknown,M,Permanent Home
+315331,Direct,04/27/2011,74,F,Permanent Home
+315331,Direct,04/27/2011,70,F,Permanent Home
+315334,Direct,04/27/2011,70,F,Permanent Home
+315816,Direct,05/24/2011,57,M,Vehicle/Towed Trailer
+315837,Direct,05/24/2011,3,M,Permanent Home
+315837,Direct,05/24/2011,1,M,Permanent Home
+315837,Direct,05/24/2011,71,M,Vehicle/Towed Trailer
+315837,Direct,05/24/2011,67,F,Vehicle/Towed Trailer
+315837,Direct,05/24/2011,50,M,Vehicle/Towed Trailer
+315837,Direct,05/24/2011,22,M,Vehicle/Towed Trailer
+315837,Direct,05/24/2011,16,F,Vehicle/Towed Trailer
+315848,Direct,05/24/2011,58,F,Outside/Open Areas
+315848,Direct,05/24/2011,64,M,Outside/Open Areas
+315858,Direct,05/24/2011,24,F,Mobile/Trailer Home
+317486,Direct,02/28/2011,79,M,Mobile/Trailer Home
+309261,Direct,04/27/2011,73,F,Mobile/Trailer Home
+309261,Direct,04/27/2011,73,F,Mobile/Trailer Home
+309261,Direct,04/27/2011,73,F,Mobile/Trailer Home
+309817,Direct,04/27/2011,39,M,Mobile/Trailer Home
+311079,Direct,04/27/2011,43,M,Mobile/Trailer Home
+312007,Direct,04/27/2011,59,M,Mobile/Trailer Home
+312007,Direct,04/27/2011,57,F,Mobile/Trailer Home
+312009,Direct,04/27/2011,74,F,Mobile/Trailer Home
+312009,Direct,04/27/2011,64,M,Mobile/Trailer Home
+312009,Direct,04/27/2011,44,M,Mobile/Trailer Home
+312009,Direct,04/27/2011,24,M,Mobile/Trailer Home
